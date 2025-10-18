@@ -1,3 +1,4 @@
+// Archivo: index.js
 // index.js (Versión Mejorada)
 
 const express = require('express');

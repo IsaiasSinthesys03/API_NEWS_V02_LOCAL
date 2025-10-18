@@ -1,3 +1,4 @@
+// Archivo: NewController.js
 const { New } = require('../models/NewModel');
 // Importamos todos los modelos para las relaciones
 const { Category } = require('../models/CategoryModel');

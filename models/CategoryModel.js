@@ -1,3 +1,4 @@
+// Archivo: CategoryModel.js
 // CategoryModel.js
 const { DataTypes } = require('sequelize');
 const { connection } = require("../config.db");

@@ -1,3 +1,4 @@
+// Archivo: AuthValidator.js
 // validators/AuthValidator.js
 const { check } = require('express-validator');
 const { User } = require('../models/UserModel');

@@ -1,3 +1,4 @@
+// Archivo: NewValidator.js
 // NewValidator.js
 const { check } = require('express-validator');
 const { Category } = require('../models/CategoryModel');

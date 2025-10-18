@@ -1,3 +1,4 @@
+// Archivo: StateModel.js
 // StateModel.js
 const { DataTypes } = require('sequelize');
 const { connection } = require("../config.db");

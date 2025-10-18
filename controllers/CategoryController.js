@@ -1,3 +1,4 @@
+// Archivo: CategoryController.js
 const { Category } = require('../models/CategoryModel');
 // --- 1. IMPORTAMOS VALIDATIONRESULT ---
 const { validationResult } = require('express-validator');

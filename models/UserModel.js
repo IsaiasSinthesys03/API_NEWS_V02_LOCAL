@@ -1,3 +1,4 @@
+// Archivo: UserModel.js
 // UserModel.js
 const { DataTypes } = require('sequelize');
 const { connection } = require("../config.db");
@@ -82,10 +83,5 @@ const User = connection.define(
     },
   }
 );
-
-// Asociaciones (declaradas después de la definición del modelo)
-// Importamos Profile aquí para evitar dependencias circulares cuando se requieren en otros archivos
-const { Profile } = require('./ProfileModel');
-User.belongsTo(Profile, { as: 'perfil', foreignKey: 'perfil_id' });
 
 module.exports = { User };

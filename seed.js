@@ -1,3 +1,4 @@
+// Archivo: seed.js
 // seed.js
 const { Category } = require('./models/CategoryModel');
 const { State } = require('./models/StateModel');

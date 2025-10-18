@@ -1,3 +1,4 @@
+// Archivo: AuthController.js
 // controllers/AuthController.js (refactorizado)
 const { User } = require('../models/UserModel');
 const { validationResult } = require('express-validator');

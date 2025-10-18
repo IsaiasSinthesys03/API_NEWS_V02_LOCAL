@@ -1,3 +1,4 @@
+// Archivo: AuthRoute.js
 // routes/AuthRoute.js
 var express = require('express');
 const { login, register, } = require('../controllers/AuthController');

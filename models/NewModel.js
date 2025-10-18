@@ -1,3 +1,4 @@
+// Archivo: NewModel.js
 // NewModel.js
 const { DataTypes } = require('sequelize');
 const { connection } = require("../config.db");

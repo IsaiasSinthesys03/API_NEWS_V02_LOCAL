@@ -1,3 +1,4 @@
+// Archivo: CategoryRoute.js
 // CategoryRoute.js
 var express = require('express');
 // Importamos las funciones del controlador

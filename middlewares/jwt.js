@@ -1,3 +1,4 @@
+// Archivo: jwt.js
 // middlewares/jwt.js
 const jwt = require('jsonwebtoken');
 

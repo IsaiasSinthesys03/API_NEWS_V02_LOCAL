@@ -1,3 +1,4 @@
+// Archivo: NewRoute.js
 // NewRoute.js
 const express = require('express');
 const { get, getById, create, update, destroy } = require('../controllers/NewController');

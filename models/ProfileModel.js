@@ -1,3 +1,4 @@
+// Archivo: ProfileModel.js
 // ProfileModel.js
 const { DataTypes } = require('sequelize');
 const { connection } = require("../config.db");

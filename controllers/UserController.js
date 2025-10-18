@@ -1,3 +1,4 @@
+// Archivo: UserController.js
 const { User } = require('../models/UserModel');
 const { Profile } = require('../models/ProfileModel'); // Importamos Profile para la relación
 // --- 1. IMPORTAMOS VALIDATIONRESULT ---

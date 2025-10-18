@@ -1,3 +1,4 @@
+// Archivo: UserValidator.js
 // UserValidator.js
 const { check } = require('express-validator');
 const { User } = require('../models/UserModel');
